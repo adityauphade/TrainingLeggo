@@ -1,5 +1,6 @@
 var a = 9;
 var b = 6;
-console.log(a+b);
+var c = 8;
+console.log(a+b+c);
 
 document.write("Hello World")
